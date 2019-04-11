@@ -1,0 +1,3 @@
+[submodule "apps/symphony/html"]
+	path = apps/symphony/html
+	url = https://github.com/bauhouse/html-symphony.git
