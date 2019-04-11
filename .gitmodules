@@ -4,3 +4,6 @@
 [submodule "apps/symphony/3"]
 	path = apps/symphony/3
 	url = https://github.com/bauhouse/symphony-3-html.git
+[submodule "styleguide"]
+	path = styleguide
+	url = https://github.com/markuplibrary/styleguide.git
